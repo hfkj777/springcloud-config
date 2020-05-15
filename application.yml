@@ -6,9 +6,9 @@
 spring:
   profiles: dev  #开发环境
   application:
-    name: springclod-config-hf-dev
+    name: springclod-config-hf-dev-1
 ---
 spring:
   profiles: test   #测试环境
   application:
-    name: springclod-config-hf-test
+    name: springclod-config-hf-test-1
